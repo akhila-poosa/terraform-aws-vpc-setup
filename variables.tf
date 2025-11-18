@@ -13,6 +13,6 @@ variable "environment"{
 
 variable "vpc_tags"{
     type = string
-    default = {}
+   
 }
     
